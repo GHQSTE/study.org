@@ -1,0 +1,24 @@
+* Mathematics
+** Trigonometry
+- [[https://www.youtube.com/playlist?list=PLhSQQGbiWoTChZSbP-XcXH40IT7vfyyFk][Trigonometry Series by Dennis F. Davis]] - Fast-paced lectures with animations
+  and outlines suitable for self-study, homeschooling or to augment formal
+  study including flipped classrooms.
+
+* Physics
+** Undergrad
+- David Halliday, Robert Resnick, Jearl Walker - Fundamentals of Physics: Extended
+
+** Electrodynamics
+- David J. Griffiths - Introduction to Electrodynamics
+
+** Thermodynamics
+- Daniel V. Schroeder - An Introduction to Thermal Physics
+
+** Quantum Mechanics
+- J. J. Sakurai and Jim Napolitano - Modern Quantum Mechanics
+
+* Chemistry
+** Undergrad
+*** Organic
+- David Klein - Organic Chemistry as a Second Language
+- Clayden - Organic Chemistry
