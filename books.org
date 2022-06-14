@@ -18,6 +18,8 @@
 
 ** Thermodynamics
 - Daniel V. Schroeder - An Introduction to Thermal Physics
+  - [[https://asia1lib.vip/book/18176022/1f4179][1st Edition]]
+    - [[https://asia1lib.vip/book/5096563/70f830][Solution Manual]]
 
 ** Quantum Mechanics
 - J. J. Sakurai and Jim Napolitano - Modern Quantum Mechanics
