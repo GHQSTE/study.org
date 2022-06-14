@@ -7,7 +7,9 @@
 * Physics
 ** Undergrad
 - David Halliday, Robert Resnick, Jearl Walker - Fundamentals of Physics: Extended
+  - [[https://b-ok.asia/book/5869883/cdc926][11th Edition]]
   - [[https://b-ok.asia/book/2576616/eb8ffa][10th Edition]]
+    - [[https://b-ok.asia/book/2576628/d6e212][Solution Manual]]
 
 ** Electrodynamics
 - David J. Griffiths - Introduction to Electrodynamics
