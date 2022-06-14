@@ -13,6 +13,8 @@
 
 ** Electrodynamics
 - David J. Griffiths - Introduction to Electrodynamics
+  - [[https://b-ok.asia/book/3372568/f4ed9d][4th Edition]]
+    - [[https://b-ok.asia/book/2659740/b7d0c2][Solution Manual]]
 
 ** Thermodynamics
 - Daniel V. Schroeder - An Introduction to Thermal Physics
