@@ -28,7 +28,8 @@
 ** Undergrad
 *** Organic
 - David Klein - Organic Chemistry as a Second Language
-  - 4E - [[https://asia1lib.vip/book/2947388/7a0ef7][First Semester Topics]], [[https://asia1lib.vip/book/11018462/2238ba][Second Semester Topics]]
+  - 4th Edition - [[https://asia1lib.vip/book/2947388/7a0ef7][First Semester Topics]],
+    [[https://asia1lib.vip/book/11018462/2238ba][Second Semester Topics]]
 - Clayden - Organic Chemistry
 
 * Computer Science
