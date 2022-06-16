@@ -1,4 +1,3 @@
-* Mathematics
 ** Proof
 - Richard Hammack - [[https://www.people.vcu.edu/~rhammack/BookOfProof/][Book of Proof]]
 - Daniel J. Velleman - How to Prove It: A Structured Approach
