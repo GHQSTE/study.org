@@ -11,6 +11,9 @@
   - [[https://asia1lib.vip/book/5650330/ea595d][3rd Edition]]
   - [[https://asia1lib.vip/book/3628807/05ba9a][2nd Edition]]
 
+** Discrete Mathematics
+- László Lovász - [[https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf][Discrete Mathematics: Lecture Notes, Yale University, Spring 1999]]
+
 ** Trigonometry
 - [[https://www.youtube.com/playlist?list=PLhSQQGbiWoTChZSbP-XcXH40IT7vfyyFk][Trigonometry Series by Dennis F. Davis]] - Fast-paced lectures with animations
   and outlines suitable for self-study, homeschooling or to augment formal
