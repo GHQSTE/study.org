@@ -30,6 +30,4 @@
   Advanced Educational Services.
 
 *** Book(s)
-- Gilbert Strang - Introduction to Linear Algebra
-  - [[https://b-ok.asia/book/5979434/abae29][5th Edition]]
-    - [[https://b-ok.asia/book/2762229/e04cdc][Solutions Manual]]
+- Gilbert Strang - [[http://math.mit.edu/~gs/linearalgebra/][Introduction to Linear Algebra]]
