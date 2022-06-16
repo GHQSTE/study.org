@@ -1,0 +1,10 @@
+* Chemistry
+** Undergrad
+*** Organic
+- David Klein - Organic Chemistry as a Second Language
+  - 4th Edition - [[https://asia1lib.vip/book/2947388/7a0ef7][First Semester Topics]],
+    [[https://asia1lib.vip/book/11018462/2238ba][Second Semester Topics]]
+- Clayden - Organic Chemistry
+  - [[https://asia1lib.vip/book/2821076/afa904][2nd Edition]]
+    - [[https://asia1lib.vip/book/2474428/b2adae][Problems]],
+      [[https://asia1lib.vip/book/2576410/79608d][Solutions Manual]]
