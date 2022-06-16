@@ -1,4 +1,7 @@
 * Mathematics
+** Proof
+- Richard Hammack - [[https://www.people.vcu.edu/~rhammack/BookOfProof/][Book of Proof]]
+
 ** Trigonometry
 - [[https://www.youtube.com/playlist?list=PLhSQQGbiWoTChZSbP-XcXH40IT7vfyyFk][Trigonometry Series by Dennis F. Davis]] - Fast-paced lectures with animations
   and outlines suitable for self-study, homeschooling or to augment formal
