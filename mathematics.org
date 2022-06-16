@@ -1,3 +1,10 @@
+* Mathematics
+** Table of Contents
+#+begin_quote
+- [[*Proof]]
+- [[*Trigonometry]]
+#+end_quote
+
 ** Proof
 - Richard Hammack - [[https://www.people.vcu.edu/~rhammack/BookOfProof/][Book of Proof]]
 - Daniel J. Velleman - How to Prove It: A Structured Approach
