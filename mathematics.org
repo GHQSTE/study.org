@@ -1,0 +1,11 @@
+* Mathematics
+** Proof
+- Richard Hammack - [[https://www.people.vcu.edu/~rhammack/BookOfProof/][Book of Proof]]
+- Daniel J. Velleman - How to Prove It: A Structured Approach
+  - [[https://asia1lib.vip/book/5650330/ea595d][3rd Edition]]
+  - [[https://asia1lib.vip/book/3628807/05ba9a][2nd Edition]]
+
+** Trigonometry
+- [[https://www.youtube.com/playlist?list=PLhSQQGbiWoTChZSbP-XcXH40IT7vfyyFk][Trigonometry Series by Dennis F. Davis]] - Fast-paced lectures with animations
+  and outlines suitable for self-study, homeschooling or to augment formal
+  study including flipped classrooms.
