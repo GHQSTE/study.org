@@ -23,3 +23,13 @@
 *** Videos
 - [[https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab][Essence of linear algebra by 3Blue1Brown]] -
   A geometric understanding of matrices, determinants, eigen-stuffs and more.
+- [[https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/][MIT 18.06 Linear Algebra]] -
+  These video lectures of Professor Gilbert Strang teaching 18.06 were recorded
+  live in the Fall of 1999. Support for the video production was provided by
+  the Lord Foundation of Massachusetts under a grant to the MIT Center for
+  Advanced Educational Services.
+
+*** Book(s)
+- Gilbert Strang - Introduction to Linear Algebra
+  - [[https://b-ok.asia/book/5979434/abae29][5th Edition]]
+    - [[https://b-ok.asia/book/2762229/e04cdc][Solutions Manual]]
