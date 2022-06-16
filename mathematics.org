@@ -1,8 +1,8 @@
 * Mathematics
 ** Table of Contents
 #+begin_quote
-- [[*Proof]]
-- [[*Trigonometry]]
+- [[Proof]]
+- [[Trigonometry]]
 #+end_quote
 
 ** Proof
