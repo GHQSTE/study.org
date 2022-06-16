@@ -18,3 +18,8 @@
 - [[https://www.youtube.com/playlist?list=PLhSQQGbiWoTChZSbP-XcXH40IT7vfyyFk][Trigonometry Series by Dennis F. Davis]] - Fast-paced lectures with animations
   and outlines suitable for self-study, homeschooling or to augment formal
   study including flipped classrooms.
+
+** Linear Algebra
+*** Videos
+- [[https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab][Essence of linear algebra by 3Blue1Brown]] -
+  A geometric understanding of matrices, determinants, eigen-stuffs and more.

@@ -1,4 +1,8 @@
 * Computer Science
+** Mathematics for Computer Science
+*** Discrete Mathematics
+- László Lovász - [[https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf][Lecture Notes, Yale University, Spring 1999]]
+
 ** Links & Resources
 - [[https://github.com/ossu/computer-science]] - Path to a free self-taught education in Computer Science!
 - [[https://teachyourselfcs.com]] - Teach Yourself Computer Science.
